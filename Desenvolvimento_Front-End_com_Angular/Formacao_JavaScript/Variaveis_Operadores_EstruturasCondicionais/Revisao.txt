@@ -1,0 +1,18 @@
+
+Estudado sobre:
+Booleanos
+Condicionais
+if e else
+else if
+
+(is) pode ser usado no lugar do "é" no nome de uma variável.
+
+
+
+
+
+
+
+
+
+
